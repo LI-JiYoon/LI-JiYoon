@@ -1,9 +1,12 @@
-### Hi there 👋
+<div align="center"> 
 
-<!--
-**LI-JiYoon/LI-JiYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=JiYoon%20&fontSize=90&theme=tokyonight)
+-----------------------
+Study,Study,Study...........
 
-Here are some ideas to get you started:
+------------------------------
+Tech
+--------------------------------------------
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-----------------------------------------------------------------------------------------------------------------------------------------
+Git Stats
+------------------------------------------------------------------------------------------------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiYoon433)](https://github.com/JiYoon433/github-readme-stats)
+------------------------------------------------------------------------------------------------------------------------------------------
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiYoon433)](https://github.com/JiYoon433/github-readme-stats)
+
+</div>
+
