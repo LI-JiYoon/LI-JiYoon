@@ -14,7 +14,7 @@ Git Stats
 ------------------------------------------------------------------------------------------------------------------------------------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiYoon433)](https://github.com/JiYoon433/github-readme-stats)
 --------------------------------------------------------------------------------------------------------------------------------------------
-http://mazassumnida.wtf/api/generate_badge?boj={2gu_n})](https://solved.ac/{2gu_n})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=2gu_n)](https://solved.ac/2gu_n)<br/>
 </div>
                                                                   
 
