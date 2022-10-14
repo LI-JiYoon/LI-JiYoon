@@ -6,7 +6,7 @@ Study,Study,Study...........
 
 ------------------------------
 Tech
-<img src="https://img.shields.io/badge/Python-545454?style=flat&logo=Python&logoColor=broghtgreen"/>
+<img src="https://img.shields.io/badge/Python-545454?style=flat&logo=Python&logoColor=brightgreen"/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 Git Stats
