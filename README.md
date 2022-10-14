@@ -5,7 +5,7 @@
 Study,Study,Study...........
 
 ------------------------------
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Scss-4D4D4D?style=flat&logo=Sass&logoColor=3776AB"/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 Git Stats
