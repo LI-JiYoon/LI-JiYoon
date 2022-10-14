@@ -8,8 +8,6 @@ Study,Study,Study...........
 Tech
 <div>
 <img src="https://img.shields.io/badge/</img src="React-61DAFB?style=flat&logo=React&logoColor=white"/>
-</div>
---------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------
 Git Stats
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,5 +15,6 @@ Git Stats
 ------------------------------------------------------------------------------------------------------------------------------------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiYoon433)](https://github.com/JiYoon433/github-readme-stats)
 --------------------------------------------------------------------------------------------------------------------------------------------
-http://mazassumnida.wtf/api/generate_badge?boj={2gu_n})](https://solved.ac/{2gu_n})
+http://mazassumnida.wtf/api/generate_badge?boj={2gu_n})](https://solved.ac/{2gu_n})  </div>
+                                                                  
 
