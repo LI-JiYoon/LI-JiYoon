@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="left"> 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=JiYoon%20&fontSize=90&theme=tokyonight)
 -----------------------
@@ -6,6 +6,8 @@ Study,Study,Study...........
 
 ------------------------------
 Tech
+<img src="https://img.shields.io/badge/Python-545454?style=flat&logo=Python&logoColor=broghtgreen"/>
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 Git Stats
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -13,7 +15,7 @@ Git Stats
 ------------------------------------------------------------------------------------------------------------------------------------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiYoon433)](https://github.com/JiYoon433/github-readme-stats)
 --------------------------------------------------------------------------------------------------------------------------------------------
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=2gu_n)](https://solved.ac/2gu_n)<br/>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2gu_n)](https://solved.ac/2gu_n)
 
                                                                   
 
