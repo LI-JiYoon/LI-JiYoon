@@ -7,7 +7,7 @@ Study,Study,Study...........
 ------------------------------
 Tech
 <div>
-<img src="https://img.shields.io/badge/Python?style=flat&logo=Python&logoColor=green"/>
+<img src="https://img.shields.io/badge/Python&color=#616161&style=flat&logo=Python&logoColor=green"&/>
 </div>
 --------------------------------------------
 
