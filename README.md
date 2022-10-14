@@ -6,7 +6,9 @@ Study,Study,Study...........
 
 ------------------------------
 Tech
-<img src="https://img.shields.io/badge/Python-darkgray?style=flat&logo=Python&logoColor=green"/>
+<div>
+<img src="https://img.shields.io/badge/Python?style=flat&logo=Python&logoColor=green"/>
+</div>
 --------------------------------------------
 
 - 🔭 I’m currently working on ...
