@@ -16,9 +16,9 @@ Study,Study,Study...........
 -----------------------------------------------------------------------------------------------------------------------------------------
 Git Stats
 ------------------------------------------------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiYoon433)](https://github.com/LI-JiYoon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LI-JiYoon)](https://github.com/LI-JiYoon/github-readme-stats)
 ------------------------------------------------------------------------------------------------------------------------------------------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiYoon433)](https://github.com/LI-JiYoon/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LI-JiYoon)](https://github.com/LI-JiYoon/github-readme-stats)
 --------------------------------------------------------------------------------------------------------------------------------------------
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2gu_n)](https://solved.ac/2gu_n)
 
