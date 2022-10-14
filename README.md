@@ -6,6 +6,7 @@ Study,Study,Study...........
 
 ------------------------------
 Tech
+<img src="https://img.shields.io/badge/{python}-{brightgreen}?style={flat}&logo={python}&logoColor={green}"/>
 --------------------------------------------
 
 - 🔭 I’m currently working on ...
@@ -22,6 +23,8 @@ Git Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiYoon433)](https://github.com/JiYoon433/github-readme-stats)
 ------------------------------------------------------------------------------------------------------------------------------------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiYoon433)](https://github.com/JiYoon433/github-readme-stats)
-
+--------------------------------------------------------------------------------------------------------------------------------------------
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 </div>
 
