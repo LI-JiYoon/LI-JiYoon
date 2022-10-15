@@ -4,6 +4,12 @@
   
   
 -----------------------------------------------------------------------------------------------------------------------------------------
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
+- 🌐 &nbsp; Android | flutter | J2EE
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 <div align="center">
 <img src="https://img.shields.io/badge/Python-4D4D4D?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Pytorch-4D4D4D?style=flat&logo=Pytorch&logoColor=EE4C2C"/>
