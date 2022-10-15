@@ -1,7 +1,7 @@
 <div align="left"> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=92F5F7&multiline=true&width=435&lines=What's+Story%3F;Morning+Glory!)](https://git.io/typing-svg)
+  
 -----------------------------------------------------------------------------------------------------------------------------------------
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=92F5F7&multiline=true&width=435&lines=What's+Story%3F;Morning+Glory!)](https://git.io/typing-svg)
 -----------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://img.shields.io/badge/Python-4D4D4D?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Pytorch-4D4D4D?style=flat&logo=Pytorch&logoColor=EE4C2C"/>
