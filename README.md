@@ -29,7 +29,6 @@
 
 <h3>🌈 GitHuB Stats</h3>
 -----------------------------------------------------------------------------------------------------------------------------------------
-<div align="center">
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LI-JiYoon&show_icons=true&theme=tokyonight"/>
 </p>
