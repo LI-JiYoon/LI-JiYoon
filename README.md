@@ -1,5 +1,5 @@
 <div align="left"> 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What's+Story?;Morning+glory)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=92F5F7&multiline=true&width=435&lines=What's+Story%3F;Morning+Glory!)](https://git.io/typing-svg)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------------------------------
