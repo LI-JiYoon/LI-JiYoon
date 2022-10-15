@@ -1,8 +1,11 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=92F5F7&multiline=true&width=435&lines=Hi,there!)](https://git.io/typing-svg)
-  
-  
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 -----------------------------------------------------------------------------------------------------------------------------------------
 <h3>🛠 Tech Stack</h3>
 
