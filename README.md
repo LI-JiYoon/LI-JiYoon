@@ -1,5 +1,4 @@
-<div align="left"> 
-  
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=92F5F7&multiline=true&width=435&lines=Hi,there!)](https://git.io/typing-svg)
   
