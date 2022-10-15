@@ -15,10 +15,11 @@ Study,Study,Study...........
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 Git Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LI-JiYoon&show_icons=true&theme=tokyonight)
 ------------------------------------------------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LI-JiYoon)](https://github.com/LI-JiYoon/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LI-JiYoon&layout=compact&theme=tokyonight)
 ------------------------------------------------------------------------------------------------------------------------------------------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LI-JiYoon)](https://github.com/LI-JiYoon/github-readme-stats)
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2gu_n)](https://solved.ac/2gu_n)
 
