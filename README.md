@@ -1,8 +1,6 @@
 <div align="left"> 
-
-![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=JiYoon%20&fontSize=90&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What's Story?; morning glory)](https://git.io/typing-svg)
 -----------------------------------------------------------------------------------------------------------------------------------------
-Study,Study,Study...........
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://img.shields.io/badge/Python-4D4D4D?style=flat&logo=Python&logoColor=3776AB"/>
