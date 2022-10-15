@@ -1,4 +1,4 @@
-
+<div align="center">
 -----------------------------------------------------------------------------------------------------------------------------------------
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=92F5F7&multiline=true&width=435&lines=Hi,there!)](https://git.io/typing-svg)
   
@@ -33,6 +33,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2gu_n)](https://solved.ac/2gu_n)
+</div>
 
                                                                   
 
