@@ -24,10 +24,9 @@
 
 <br>
 
-<h3>🌈 Git stats</h3>
+<h3>🌈 GitHuB Stats</h3>
 -----------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
-  <a href="https://github.com/LI-JiYoon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LI-JiYoon&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LI-JiYoon&layout=compact&theme=tokyonight"/>
  </div>
