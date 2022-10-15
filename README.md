@@ -10,6 +10,9 @@
 - 🌐 &nbsp; Android | flutter | J2EE
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+
+<br>
+
 <div align="center">
 <img src="https://img.shields.io/badge/Python-4D4D4D?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Pytorch-4D4D4D?style=flat&logo=Pytorch&logoColor=EE4C2C"/>
@@ -18,7 +21,6 @@
 <img src="https://img.shields.io/badge/NumPy-4D4D4D?style=flat&logo=NumPy&logoColor=013243"/>
 <img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=Flask&logoColor=000000"/>
 </div>
-
 
 <br>
 
