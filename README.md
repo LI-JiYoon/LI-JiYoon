@@ -9,10 +9,10 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
+- 💻 &nbsp; Python| Java | C++ |
 - 🌐 &nbsp; Android | flutter | J2EE
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧  PyCharm | Visual Studio code | Git
 
 <br>
 
