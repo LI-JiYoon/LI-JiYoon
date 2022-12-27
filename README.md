@@ -10,7 +10,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
 <h3>🎓 Education</h3>
 <h5>
-- 메타버스 아카데미 1기 AI 과정 수료 (2022.04 ~ 2022.12) <br/><br/>
+- 메타버스 아카데미 1기 AI 과정 수료 (2022.05 ~ 2022.12) <br/><br/>
 - 성신여자대학교 컴퓨터 공학과 졸업 3.96/4.5 (2017.03 ~ 2022.02)
 </h5>
   
@@ -30,12 +30,18 @@
 <h3>🛠 Tech Stack</h3>
 
 <p>
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Pytorch-FFFFFF?style=flat&logo=Pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=flat&logo=TensorFlow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Pandas-FFFFFF?style=flat&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/NumPy-FFFFFF?style=flat&logo=NumPy&logoColor=013243"/>
-<img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=Flask&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=Python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Pytorch-FFFFFF?style=flat&logo=Pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=flat&logo=TensorFlow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/Pandas-FFFFFF?style=flat&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=flat&logo=NumPy&logoColor=013243"/>
+  <img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=flat&logo=FastAPI&logoColor=009688"/> 
+  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=flat&logo=Docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=Linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Keras-FFFFFF?style=flat&logo=Keras&logoColor=D00000"/>
+  <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=flat&logo=OpenCV&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Selenium-FFFFFF?style=flat&logo=Selenium&logoColor=43B02A"/>
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------
