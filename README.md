@@ -42,8 +42,7 @@
   <img src="https://img.shields.io/badge/Docker-FFFFFF?style=flat&logo=Docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=Linux&logoColor=FCC624"/>
   <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=Notion&logoColor=181717"/>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=GitHub&logoColor=181717"/>
  
 </p>
 
