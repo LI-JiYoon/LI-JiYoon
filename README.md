@@ -35,13 +35,16 @@
   <img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=flat&logo=TensorFlow&logoColor=FF6F00"/>
   <img src="https://img.shields.io/badge/Pandas-FFFFFF?style=flat&logo=pandas&logoColor=150458"/>
   <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=flat&logo=NumPy&logoColor=013243"/>
+  <img src="https://img.shields.io/badge/Keras-FFFFFF?style=flat&logo=Keras&logoColor=D00000"/>
+  <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=flat&logo=OpenCV&logoColor=5C3EE8"/>
+  <img src="https://img.shields.io/badge/Selenium-FFFFFF?style=flat&logo=Selenium&logoColor=43B02A"/>
   <img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=flat&logo=FastAPI&logoColor=009688"/> 
   <img src="https://img.shields.io/badge/Docker-FFFFFF?style=flat&logo=Docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=Linux&logoColor=FCC624"/>
   <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Keras-FFFFFF?style=flat&logo=Keras&logoColor=D00000"/>
-  <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=flat&logo=OpenCV&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Selenium-FFFFFF?style=flat&logo=Selenium&logoColor=43B02A"/>
+  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=Notion&logoColor=181717"/>
+ 
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------
