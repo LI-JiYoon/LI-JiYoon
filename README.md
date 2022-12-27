@@ -9,7 +9,6 @@
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧  PyCharm | Visual Studio code | Git
 
-<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-4D4D4D?style=flat&logo=Python&logoColor=3776AB"/>
@@ -20,19 +19,12 @@
 <img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=Flask&logoColor=000000"/>
 </div>
 
-<br>
 
-<h3>🌈 GitHuB Stats</h3>
------------------------------------------------------------------------------------------------------------------------------------------
+<h3>📊 GitHuB Stats</h3>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LI-JiYoon&show_icons=true&theme=tokyonight"/>
-</p>
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LI-JiYoon&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LI-JiYoon&show_icons=true&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LI-JiYoon&show_icons=true&theme=graywhite"/>
 </p> 
-</div>
-<br>
-
 -----------------------------------------------------------------------------------------------------------------------------------------
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2gu_n)](https://solved.ac/2gu_n)
 ------------------------------------------------------------------------------------------------------------------------------------------
