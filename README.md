@@ -33,7 +33,7 @@
   
 <h5>
 - 정보처리기사<br/><br/>
-- JLPT N1 
+- JLPT N1<br/><br/>
 - Opic IM3
 </h5>
   
